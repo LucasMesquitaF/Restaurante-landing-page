@@ -1,0 +1,36 @@
+.btn {
+    border: none;
+    border-radius: 30px;
+    width: 180px;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 20px;
+    text-align: center;
+    transition: all 0.3s ease-out;
+}
+
+.booking-btn {
+    padding: 12px 5px;
+    background-color: #fff;
+    color: #373737;
+}
+
+.booking-btn:hover {
+    background: #373737;
+    color: #fff;
+}
+
+.order-btn {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 230px;
+    padding: 15px 40px;
+    background-color: #FE9E0D;
+    color: #fff;
+}
+
+.order-btn:hover {
+    color: #FE9E0D;
+    background-color: #fff;
+}

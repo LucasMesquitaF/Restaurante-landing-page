@@ -1,0 +1,47 @@
+.footer-container {
+  margin-bottom: 10rem;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-logo-container {
+  margin-right: 4rem;
+  max-width: 110px;
+}
+
+.footer-icons {
+  margin-top: 2.5rem;
+}
+
+.footer-icons svg {
+  font-size: 1.5rem;
+  margin-right: 1.25rem;
+  color: #585858;
+}
+
+.footer-section-one {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.footer-section-two {
+  flex: 2;
+  margin-right: 5vw;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-section-columns {
+  display: flex;
+  flex-direction: column;
+  min-width: 190px;
+}
+
+.footer-section-columns span {
+  margin: 0.25rem 0rem;
+  font-weight: 600;
+  color: #4c4c4c;
+  cursor: pointer;
+}
